@@ -15,6 +15,10 @@
 
 ### 开发环境搭建
 
+**
+不喜欢折腾的同学可以使用打包好的vagrant环境，详见：<http://git.jikexueyuan.com/timjuly/vagrant-lnmp>
+**
+
 #### 第一步，安装虚拟机软件 Virtualbox
 
 下载地址:<https://www.virtualbox.org/wiki/Downloads>
